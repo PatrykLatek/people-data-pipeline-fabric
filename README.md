@@ -41,7 +41,7 @@ The Wait steps are there because I am currently using Fabric Trial capacity. Wit
 
 ## Data generator
 
-generate_employees.py
+employees_generator.py
 
 The generator creates 1000 employee records.
 
