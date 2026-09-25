@@ -129,7 +129,7 @@ The full pipeline has been tested successfully.
 
 ## Technologies used
 
-Python, PySpark, Spark SQL, Microsoft Fabric, Azure ADLS Gen2, OneLake, Delta tables and GitHub.
+Python, PySpark, Spark SQL, Microsoft Fabric, Power BI, Azure ADLS Gen2, OneLake, Delta tables and GitHub.
 
 
 # Patryk Latek
