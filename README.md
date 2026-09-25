@@ -101,6 +101,18 @@ Gold uses the clean Silver data and creates summary tables for reporting.
 
 At the moment I have summaries based on things like department, country, employment type and employee status.
 
+## Power BI Dashboard
+
+I used the Gold tables to build a simple Power BI dashboard in Microsoft Fabric.
+
+The dashboard shows:
+- number of employees by department
+- number of employees by country
+- employment type distribution
+- hiring trend by year
+
+![People Data Dashboard](people_data_dashboard.png)
+
 ## Fabric pipeline
 
 The notebooks are also connected in a Microsoft Fabric Data Pipeline.
@@ -117,13 +129,6 @@ The full pipeline has been tested successfully.
 
 Python, PySpark, Spark SQL, Microsoft Fabric, Azure ADLS Gen2, OneLake, Delta tables and GitHub.
 
-## What I want to add next
-
-I am still developing this project.
-
-The next things I want to add are Power BI reporting, better monitoring/logging and incremental loading.
-
----
 
 Patryk Latek
 Junior Data Engineer portfolio project
