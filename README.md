@@ -131,5 +131,5 @@ The full pipeline has been tested successfully.
 Python, PySpark, Spark SQL, Microsoft Fabric, Azure ADLS Gen2, OneLake, Delta tables and GitHub.
 
 
-#Patryk Latek
+# Patryk Latek
 Junior Data Engineer portfolio project
