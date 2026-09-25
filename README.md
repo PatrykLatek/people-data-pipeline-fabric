@@ -125,6 +125,7 @@ Bronze → Silver → Gold
 Silver only starts if Bronze succeeds, and Gold only starts if Silver succeeds.
 
 The full pipeline has been tested successfully.
+![Fabric Pipeline Success](fabric_pipeline_success.png)
 
 ## Technologies used
 
