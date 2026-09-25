@@ -83,14 +83,14 @@ employees_excluded
 
 Result from the latest run:
 
-| Metric                    |Records|
-|----------------------------------:|
-| Source                     | 1000 |
-| Latest after deduplication | 979  |
-| Older duplicates           | 21   |
-| Clean                      | 825  | 
-| Rejected                   | 154  |
-| Total                      | 1000 |
+| Metric | Records |
+| --- | ---: |
+| Source | 1000 |
+| Latest after deduplication | 979 |
+| Older duplicates | 21 |
+| Clean | 825 |
+| Rejected | 154 |
+| Total | 1000 |
 
 I added reconciliation checks to make sure no records disappear during processing.
 
